@@ -1,0 +1,25 @@
+# Instruct Code
+Organize Expense File: YES
+Draft Daily History: YES
+Plot Account History: YES
+Sum Account Values: YES
+Create Histogram Tables: YES
+Plot Histograms: YES
+# -----------------------------------------------------
+# List File Names
+Expense History File: ../Input_Files/Expense_File.csv
+Account History: ../Input_Files/Daily_Log.csv
+History Plot Name: ../Input_Files/Daily_Log.png
+Histogram Directory: ../Input_Files/Histograms
+# -----------------------------------------------------
+# Account Dates
+Plot Start Date: 01 November 2018
+Plot End Date: 21 December 2017
+Sum Start Date: 01 January 2000
+Sum End Date: Today
+Hist Plot Start Date: 01 January 2000
+Hist Plot End Date: 11 January 2000
+# -----------------------------------------------------
+# Checking Values
+Checking Start: 3712.67
+Savings Start: 1441.35
